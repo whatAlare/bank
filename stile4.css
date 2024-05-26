@@ -1,0 +1,25 @@
+.dost {
+    width: 100%;
+    margin-top: 30px;
+
+}
+.vsevdost {
+    width: 400px;
+    margin: auto;
+   background-color: rgb(245, 221, 221);
+   padding: 20px;
+}
+input {
+    width: 70%;
+}
+.silka {
+text-decoration: none;
+color: black;
+border: 2px solid black;
+width: 250px;
+margin: auto;
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
